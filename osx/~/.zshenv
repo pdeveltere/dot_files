@@ -1,0 +1,1 @@
+export PATH=$HOME/Workspace/bin:$PATH
